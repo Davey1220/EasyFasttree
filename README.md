@@ -1,1 +1,1 @@
-# Easy_Fasttree
+# EasyFasttree
